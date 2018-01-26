@@ -32,7 +32,7 @@ Responda para o email que você recebeu com o link para o seu repositório e a a
 
 ## Referências
 
-Veja alguns prints da página atual simplificada podem ser usados como referência. 
+Veja alguns prints da página atual, que podem ser usados como referência. 
 
 ### Tela inicial
 
